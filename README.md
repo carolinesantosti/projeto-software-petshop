@@ -2,6 +2,10 @@
 
 Sistema de banco de dados relacional para gerenciamento completo de um Pet Shop, incluindo cadastro de clientes, pets, serviços, agendamentos, vendas, produtos, funcionários e fornecedores.
 
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![MySQL](https://img.shields.io/badge/banco%20de%20dados-MySQL-blue)
+![Licença](https://img.shields.io/badge/licença-MIT-green)
+
 ---
 
 ## 📌 Sobre o Projeto
